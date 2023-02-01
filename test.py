@@ -10,7 +10,7 @@ def sign(url, headers):
     payload = json.dumps({
         "url": url,
         "headers": headers,
-        "aid": 1233,
+        "aid": 3019,
         "license_id": 1611921764,
         "sdk_version_str": "v04.04.05-ov-android",
         "sdk_version": 134744640,
